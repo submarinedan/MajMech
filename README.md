@@ -1,2 +1,6 @@
 # MajMech
-Determining criteria for Multi-Cause Incident Analysis (MCIA)
+# Determining criteria for Multi-Cause Incident Analysis (MCIA)
+#
+# This is a report that came about to answer management questions of how many MCIA’s are (or not) being conducted. Originally this was a quarterly report that became a monthly.
+# We established that a Major Mechanical Delay is one that exceeds 24 hours in duration for production. Since I was normalizing the data from the Electronic Delay Log (EDL) already, I used a lot of the same information from the raw EDL database. Then I would log onto our maintenance server database and pull Work Orders to try to correlate the delays to the work, and view the Findings in each. This helped to refresh the SME’s on anything that would help during the investigation. I also pulled data from the MCIA database. At this time, nothing was able to talk with each other or be able to have relationships with the other database. The MCIA database had cases and corrective actions and combined them into this report on the tabs of this spreadsheet.
+# I then started data-mining and combining/contrasting the data into another tab for presentation of my report at management meetings. This allowed me to ask the questions of where we stood on each MCIA and/or determine if one was needed, had one not been started.
